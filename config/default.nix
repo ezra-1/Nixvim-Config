@@ -4,6 +4,8 @@
   # Core modules only
   imports = [
     ./core
+    ./theme
+    ./plugins
   ];
 
   # Aliases
